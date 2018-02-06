@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="btn1">btn1</string>
+    <string name="btn2">btn2</string>
+    <string name="btnActivity2">Activity2</string>
+    <string name="typeSth">Input Something here</string>
+</resources>
