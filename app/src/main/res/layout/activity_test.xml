@@ -17,7 +17,7 @@
             android:text="@string/btnActivity2"
             android:layout_gravity="center"
             android:id="@+id/btnActivity2"
-            android:background="@color/colorAccent1"
+            android:background="@color/colorAccent2"
             android:textColor="@color/colorPrimaryDark"/>
 
     </LinearLayout>
