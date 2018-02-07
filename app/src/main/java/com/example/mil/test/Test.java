@@ -32,6 +32,8 @@ public class Test extends AppCompatActivity {
         showTextActivity2.setText(txt);
         showTextActivity2.setText(txt);
 
+coad1
+
 
         btnActivity2.setOnClickListener(new View.OnClickListener() {
             @Override
