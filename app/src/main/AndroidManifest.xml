@@ -19,7 +19,6 @@
         <activity android:name=".Test">
 
         </activity>
-        <activity android:name=".ThirdActivity" />
     </application>
 
 </manifest>
