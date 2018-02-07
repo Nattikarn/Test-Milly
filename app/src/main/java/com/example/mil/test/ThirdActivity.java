@@ -19,10 +19,13 @@ public class ThirdActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        thirdBtn = findViewById(R.id.thirdBtn);
+
         thirdBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent();
+                Intent intent = new Intent(ThirdActivity.this, Test.class);
+                startActivity(intent);
             }
         });
     }
