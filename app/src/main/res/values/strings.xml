@@ -4,4 +4,5 @@
     <string name="btn2">btn2</string>
     <string name="btnActivity2">Activity2</string>
     <string name="typeSth">Input Something here</string>
+    <string name="thirdBtn">Third Activity Button</string>
 </resources>
