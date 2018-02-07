@@ -30,6 +30,8 @@ public class Test extends AppCompatActivity {
         Intent intent = getIntent();
         String txt = intent.getStringExtra("typeSthValue");
         showTextActivity2.setText(txt);
+        showTextActivity2.setText(txt);
+
 
         btnActivity2.setOnClickListener(new View.OnClickListener() {
             @Override
