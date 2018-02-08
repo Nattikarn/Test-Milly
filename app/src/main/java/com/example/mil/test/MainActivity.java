@@ -30,11 +30,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d(TAG, "ON CREATE...");
 
-    }
 
-    @Override
-    protected void onStart() {
-        super.onStart();
         typeSth = findViewById(R.id.typeSth);
         btn1 = findViewById(R.id.btn1);
         btn2 = findViewById(R.id.btn2);

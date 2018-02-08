@@ -14,7 +14,7 @@ import android.widget.TextView;
  * Created by mil on 2/5/2018 AD.
  */
 
-public class Test extends AppCompatActivity {
+public class Test extends MainActivity {
 
     private Button btnActivity2;
     private TextView showTextActivity2;
